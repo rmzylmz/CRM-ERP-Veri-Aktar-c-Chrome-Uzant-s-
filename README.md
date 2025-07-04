@@ -98,12 +98,9 @@ Uzantıyı kullanabilmek için hem `background.js` hem de `manifest.json` dosyal
 5.  Uzantı, yapılandırmasına göre verileri çekmeye başlayacak ve durumunu pencerede anlık olarak gösterecektir.
 6.  Veri çekimi tamamlandığında, oluşturulan JSON dosyası için bir indirme penceresi açılacaktır. Dosyayı kaydetmek istediğiniz yeri seçerek indirme işlemini tamamlayabilirsiniz.
 
-## Katkıda Bulunma
 
-Projenin geliştirilmesine katkıda bulunmaktan memnuniyet duyarız! Hata raporları, özellik önerileri veya kod katkıları için lütfen:
+## 📧 İletişim
 
-* Bir "Issue" açın: Sorunlarınızı veya önerilerinizi detaylı bir şekilde açıklayın.
-* Bir "Pull Request" gönderin: Kod değişikliklerinizle projeye doğrudan katkıda bulunun.
-
+Sorularınız veya önerileriniz için **https://yagizcoding.com/**   adresinden bana ulaşabilirsiniz.
 
 
