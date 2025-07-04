@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>CRM/ERP Veri Aktarıcı</title>
+    <meta charset="UTF-8">
+    <style>
+        body {
+            font-family: sans-serif;
+            width: 250px;
+            padding: 10px;
+            text-align: center;
+        }
+
+        button {
+            padding: 10px;
+            font-size: 14px;
+            cursor: pointer;
+            margin-top: 10px;
+        }
+
+        p {
+            font-size: 12px;
+        }
+
+        #status {
+            margin-top: 15px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h3>Verileri JSON'a Aktar</h3>
+    <p>Bu işlem biraz zaman alabilir. Lütfen işlem tamamlanana kadar bu pencereyi veya sekmeyi kapatmayın.</p>
+    <button id="exportButton">Aktarımı Başlat</button>
+    <div id="status"></div>
+    <script src="popup.js"></script>
+</body>
+</html>
