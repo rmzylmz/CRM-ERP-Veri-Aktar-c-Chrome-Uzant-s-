@@ -1,13 +1,6 @@
-﻿Kesinlikle haklısınız\! `host_permissions` alanı da `background.js`'deki API ayarları kadar kritik ve kullanıcıların kendi sistemlerine uyarlamaları için belirtilmesi gerekiyor.
-
-Aşağıda, hem `background.js` hem de `manifest.json` dosyalarının yapılandırma gerektinimlerini detaylıca açıklayan güncellenmiş `README.md` dosyasını bulabilirsiniz. "Kurulum ve Yapılandırma" başlığını daha da detaylandırdım.
-
------
-
-````markdown
 # CRM/ERP Veri Aktarıcı (Chrome Uzantısı)
 
-## Kısa Açıklama
+## Açıklama
 
 Bu Chrome uzantısı, web tabanlı **CRM ve ERP gibi yönetim panellerinden** belirli veri setlerini (örneğin, mail listeleri, ürün bilgileri, müşteri kayıtları vb.) kullanıcı tarafından indirilebilir bir JSON formatına aktarmak amacıyla geliştirilmiştir. Uzantı, bu panellerin standart kullanıcı girişi mekanizmasına entegre çalışır ve yalnızca yetkilendirilmiş kullanıcıların erişebileceği verileri işlemeyi hedefler.
 
