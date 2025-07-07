@@ -18,11 +18,6 @@ Bu projenin temel amacı, çeşitli **CRM, ERP ve benzeri iş yönetim panelleri
 
 ---
 
-## Önemli Bilgiler
-
-Bu uzantı, çeşitli web tabanlı CRM/ERP ve benzeri yönetim panellerindeki verileri dışa aktarmak için tasarlanmıştır. Uzantıyı kullanırken, işlenen verilerin gizliliği ve ilgili yasal düzenlemelere (örn. KVKK, GDPR) uygunluk da dahil olmak üzere, tüm sorumluluk tamamen kullanıcıya aittir. Geliştirici, uzantının kullanımından kaynaklanabilecek herhangi bir veri kaybı, hukuki sorun veya iş kesintisinden sorumlu değildir. Panel sağlayıcılarının yapabileceği güncellemeler veya API değişiklikleri uzantının işlevselliğini etkileyebilir veya uyumluluğunu bozabilir. Bu proje bağımsız bir geliştirme olup, herhangi bir ticari platform veya şirket ile doğrudan bir bağlantısı veya ortaklığı bulunmamaktadır.
-
----
 
 ## Kurulum ve Yapılandırma
 
